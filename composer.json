@@ -1,5 +1,5 @@
 {
-    "name": "tabbzero/archiectureprojet",
+    "name": "tabbbzero/archiectureprojet",
     "autoload": {
         "psr-4": {
             "Nianga\\TestProjet\\": "src/",
