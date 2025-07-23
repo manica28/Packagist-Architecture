@@ -1,5 +1,5 @@
 {
-    "name": "table0/archiectureprojet",
+    "name": "tablezero/archiectureprojet",
     "autoload": {
         "psr-4": {
             "Nianga\\TestProjet\\": "src/"
